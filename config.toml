@@ -1,4 +1,0 @@
-baseURL = 'https://nas.mrbian.xyz/'
-languageCode = 'en-us'
-title = '群晖导航'
-theme = 'webstack-hugo'

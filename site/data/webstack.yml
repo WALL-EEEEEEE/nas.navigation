@@ -1,0 +1,11 @@
+---
+
+- taxonomy: 群晖应用
+  icon: fa-star
+  links: 
+    - title: 群晖CMS
+      logo: assets/images/logos/dribbble.png
+      url: https://nas.mrbian.xyz
+      description: 群晖系统
+   
+

@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "zh-CN"
+title = "群晖导航"
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""
+[params.search]
+  enable = true
+[params.darkmode]
+  enable = false
